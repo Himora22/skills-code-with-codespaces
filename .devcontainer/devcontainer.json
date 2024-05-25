@@ -11,7 +11,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "GitHube.copilot"
+        "GitHub.copilot"
       ]
   },
   "codespaces": {
