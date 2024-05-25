@@ -21,3 +21,5 @@
      }
    }
  }
+'
+"postCreateComman": "echo '#' Writing code upon codespace creation!' >> sodespace.md"
